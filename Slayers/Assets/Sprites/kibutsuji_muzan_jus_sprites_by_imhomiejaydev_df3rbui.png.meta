@@ -1,0 +1,4263 @@
+fileFormatVersion: 2
+guid: f6628a055b5565443bb2f6b05cb1b368
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2194
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a878a5b7363fb6242858eca8447611d1
+      internalID: -1640889113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2194
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411b418ab85d49f44b7a97ff9a4bf2da
+      internalID: -978985694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2194
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81ff6e89b279414c8cd0b68043de780
+      internalID: -630026473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2193
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996f75e6256a04e4dab5f3eab092ffe0
+      internalID: 1518198085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2193
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28674d9509907e54eb79448979d53796
+      internalID: 390863515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2193
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3381232ee7da95d44848916f05e23ee7
+      internalID: 137532365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2193
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c64b57def6cef34faece05509899cc1
+      internalID: -335028903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2193
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e589ce8f8b63534ea6d91712ec4ae0b
+      internalID: -1830396961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_8
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2192
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d44a885d99259499bf7b5d3a22e9b4
+      internalID: 87476736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2121
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f5a69bc21f388428872b86e738aa8d
+      internalID: 538519537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2120
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a96482f2b2405e4ca9474e0359dd98e
+      internalID: -104270243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2120
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7c306fdc1268f45b7f34bfbfaffefb
+      internalID: 1066813702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2116
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012115af775183a4ea2cb39782503f16
+      internalID: -2116180999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2119
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bba60db2bc439849848b7aae39646d9
+      internalID: -2027245277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_14
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2119
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecf6a108be15e64f8993ca570c521a3
+      internalID: -889408624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_15
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2117
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1956425c4b54dd64bb9353d18c981240
+      internalID: -592149410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_16
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2117
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68409e247b6907e40b8e0c1494fe93a0
+      internalID: -922281000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_17
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2117
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280d3be09a3a6834f9297270cf483f47
+      internalID: 477908244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_18
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2117
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5b5cd548584f84cb12d987502e0b05
+      internalID: 298488960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_19
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2115
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a92676cfd2a5845bedc08f306f7d34
+      internalID: 1259270649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2034
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27cef4e8c5fec9419878cf8b526c57c
+      internalID: 503017271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2034
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed39521aa2f9054cbe0ec115eefc6aa
+      internalID: -1976790055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2034
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835ebe23dc3dd2340863933c1ba10484
+      internalID: -1890685204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2031
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a4db1923677d04590ee9e541f940da
+      internalID: 1607572089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_24
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 2031
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0398737f35a314d43a14e86bca62babf
+      internalID: -1156826824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_25
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2031
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a368ceea8ea04d409f5d16efa938f8a
+      internalID: -2079602936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_26
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2030
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3457b87861025de42b0c7ff1af2703fa
+      internalID: -151620935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_27
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2030
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7234725ca6ed3ff47b28890b7c59d4bb
+      internalID: 1417327141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_28
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2032
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcc13730595a3b44882c5da81876e3c
+      internalID: 1699655692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_29
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2032
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e38ffac3b7111044a81974b074d0c7f
+      internalID: 1250455024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_30
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2031
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1364ff33a21eb24baba4afaa4b5f5b1
+      internalID: 1515346033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_31
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2032
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b66ac1e81a70642816581cd36ac41d
+      internalID: -1531463574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_32
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 2032
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa57a538c80e8f43917f536aac48413
+      internalID: -154121937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_33
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2034
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea9adf8f19350c47902380bf3067be1
+      internalID: -429115936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_34
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2034
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68efe397cced45c4199d4ab60cb875d1
+      internalID: 1810566479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_35
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 2034
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bccb41fafae88d41a2daa7623d6994e
+      internalID: -1131447366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_36
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2034
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4193b8a181464e24a983a55aff21baff
+      internalID: 1713636993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_37
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2034
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b7775a6fd37d24fab7555e81e6b4c7
+      internalID: -1020805580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_38
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1957
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbac43f573e8ff144b456f113d314f4e
+      internalID: -128418916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_39
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1958
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769287ac87771884990c108dd27915c0
+      internalID: 599739851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1959
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600e92256fc9bce49aa63e2af8d25ec3
+      internalID: -1505057742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1957
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae44951ff917b440975c2009ae02fe3
+      internalID: 175856893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_42
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1954
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c821bb7b2396a040bd10edc330d16db
+      internalID: 1418120474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_43
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1954
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c73e3e110c8d24fb8dfdb2a49e503c
+      internalID: -996170256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_44
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1955
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dd25915b3cbed4d9f6c4ae99e4f3fb
+      internalID: -2109810711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_45
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1963
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2028cdfadbf37c447bb4741ae5cec929
+      internalID: -1181029246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_46
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1959
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4bdfec0d995664b8222e527a0a47d0
+      internalID: -165611115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_47
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1959
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8466468f06d24f345bba9c041be020ca
+      internalID: 1890751176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_48
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1955
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040aab53c9ae28549a6f9ccf1030a185
+      internalID: -64161472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_49
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1954
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656ae319547475f48aeb03bfe349c8f3
+      internalID: 1862802357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_50
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1954
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409ff0e68df70634e99d3504725da499
+      internalID: -1817834787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_51
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1849
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98609b5171590e64b80fd8d80929a294
+      internalID: -274232403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_52
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1856
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d509eb46c1dad7243af2d8dd48eff847
+      internalID: 2113547102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_53
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1856
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33de2c7a6004da54cbc883b925adff59
+      internalID: -95291201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1853
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e490ae579825b40a77e2c88be739fc
+      internalID: -1544249168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_55
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1864
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444b723d3b6b2914a9fd3f8721158c76
+      internalID: 583150751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_56
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1856
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae7df8e41798eb46b897eb8b0963dfc
+      internalID: -2139693451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_57
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1854
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5a6a54c3b331a40bcb6c8d0112768e
+      internalID: 1276057893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_58
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1849
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c78f24745ff5424b91a1d7981a78a52
+      internalID: 871405805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_59
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1772
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0d08060cdb8f24da361210f953edbc
+      internalID: -1764244346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_60
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1783
+        width: 76
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411bb5909c53acf42840d1bb3ce5633e
+      internalID: 1905483052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_61
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1779
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735c7ccf433cfd742a2c25a01e1754c1
+      internalID: -76949124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_62
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1783
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71667de70fec3c4499769d092f5bc43c
+      internalID: -830316740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_63
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1659
+        width: 101
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c619932292e11cd43a980805184096d1
+      internalID: 2147407947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_64
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1659
+        width: 103
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fbac67abde05640acf3c029b8a522b
+      internalID: -410662001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_65
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1659
+        width: 98
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c61eb0fc66511e41a17463829e54d84
+      internalID: -803971327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_66
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1659
+        width: 101
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b9d8405a33e004793e4060d0348d2f
+      internalID: 559774201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_67
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1659
+        width: 104
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41e58c9768210544a66e66058a952e5
+      internalID: 1614666863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_68
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1659
+        width: 98
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d55f44ed7a4b0439ebfbe429c8ab69
+      internalID: -1464178592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_69
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1659
+        width: 101
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9f8b6815ac7714694770ae5647b230
+      internalID: -834834777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_70
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1659
+        width: 105
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6622278813c284f95184ae8245fbce
+      internalID: 2146904116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_71
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1659
+        width: 98
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a86feecadb77748a92eb4cbb91c947
+      internalID: -150754837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_72
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1564
+        width: 100
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325b0d55a63200d4f831df948963521a
+      internalID: -211306474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_73
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1569
+        width: 98
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe20693df3270a41988c3e47abaa66e
+      internalID: -30357875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_74
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1569
+        width: 100
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf5deccc67640e4eaa0da5d942f52f2
+      internalID: 227773200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_75
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1569
+        width: 98
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d518e69e05972744a1d4cb316e18436
+      internalID: 2113059534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_76
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1580
+        width: 97
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dfa3658469c384c86f36f34c972d97
+      internalID: 1278254742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_77
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1581
+        width: 97
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc317f4d485cfcb4387e7ce67b1c67e8
+      internalID: 1000514229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_78
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1581
+        width: 96
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907dc6feafb797c4098aa640161b3027
+      internalID: -366291882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_79
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1582
+        width: 98
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8a86cd864f8f5458e7df0c5b68bcc5
+      internalID: -298716997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_80
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1585
+        width: 98
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34c87b97eef1ee499f3bcd732ffe5af
+      internalID: -505345205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_81
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1449
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c8cc07acc314949952503d41bbf680
+      internalID: -1212943292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_82
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1449
+        width: 53
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ff9c0f13b46d34281db4aa142dc911
+      internalID: -1503435549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_83
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1452
+        width: 53
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c207ab9b7435e245916f8c7495cc43c
+      internalID: -1252305588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_84
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1459
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea375e5a97769234a920dfe7a29a1416
+      internalID: -1751249137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_85
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1455
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5573617c29cafde448e9f76f53bde8d5
+      internalID: 364238770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_86
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1449
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8715f0f3066654a8cf13872e8e1292
+      internalID: -1571115456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_87
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1467
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f95e2ced5c36f4da4a00467aa612c2
+      internalID: 781523441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_88
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1471
+        width: 93
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16be673d227e369408dee00edca4c062
+      internalID: -1287486614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_89
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1471
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bb75a3b0ab1634b87dcc88a93af2ef
+      internalID: 754220101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_90
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1475
+        width: 93
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2056bdcba77d13e45a03c0ba6660c64a
+      internalID: 1698696295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_91
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1475
+        width: 93
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c15de5e07579e04dbf145a98544940d
+      internalID: -309511284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_92
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1471
+        width: 89
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56416eaf4c8f1c49932acbbaa605c3c
+      internalID: 213880543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_93
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1464
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d9bc9a34cb24742b1cf0d9ebe0be7b
+      internalID: -811669513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_94
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1467
+        width: 114
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9529484a44eed9b43a507029e38c797c
+      internalID: -15627864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_95
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1461
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc06e90e90efba4ebb22ec4c3b4ca05
+      internalID: 1483928692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_96
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1314
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f21ebb9e7481a44f947d15f61f31fd7
+      internalID: -1481038999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_97
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1311
+        width: 92
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23664bec301f8d34aba5c678283bb370
+      internalID: -1518997887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_98
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1314
+        width: 93
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4ab1dff7755db44819856e2f0a1dc5
+      internalID: -2101375686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_99
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1315
+        width: 93
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6977a44fad71c8f4fa4d3a70e19d723b
+      internalID: -873483903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_100
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1315
+        width: 93
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dd8d70b91b0f7418b33f77f4ac1fd7
+      internalID: -5271609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_101
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1315
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc8c68b20126984f8094496e20f8438
+      internalID: -1291927643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_102
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1315
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5945436acd26c7044888a639fc7c100c
+      internalID: -1111319354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_103
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1314
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6843ee0649459448b72b1750c6f6dd
+      internalID: -392365264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_104
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1314
+        width: 93
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd216f6f236e0c34894eb9b55ff355cf
+      internalID: 2098657512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_105
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1314
+        width: 138
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac084d3f3a9b78e43a654ba925d06c88
+      internalID: 1097004964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_106
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1314
+        width: 125
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2537ce0782b401469e5f212a81733d7
+      internalID: 744275461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_107
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1326
+        width: 105
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b476479aaa1b3784c9ebfa42aca1b389
+      internalID: -1138783533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_108
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1192
+        width: 141
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de9650d1972d104784e1b40944f2b3f
+      internalID: -1604462738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_109
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1200
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea64ae4fb25340e42a989b083e6b7138
+      internalID: 43927260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_110
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1200
+        width: 98
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de1c3cc668c02745a1ac62ec2058e08
+      internalID: 1702646576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_111
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1196
+        width: 165
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a37b5964697a4f44b45c948a035c63a
+      internalID: -1466701177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_112
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1197
+        width: 125
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d104c8358b83b245b13cfe5991a8fc6
+      internalID: 800288967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_113
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1181
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c407e78c80c8c6468bfe4fb490de4fd
+      internalID: -879985517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_114
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1180
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ef0f38d1285f147bfff2a666af3f2b
+      internalID: -1930043439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_115
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1180
+        width: 124
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f450b13806ed2540af835ccedeacc47
+      internalID: 879181038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_116
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1180
+        width: 154
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec99f3461434224996cdb18e36c0f00
+      internalID: -1226706829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_117
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1185
+        width: 190
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10133815adef66142bc4b370afa78cf7
+      internalID: -2044414209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_118
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1185
+        width: 165
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b47c3b914652c41be9ef21aea8fd20
+      internalID: -450927684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_119
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1179
+        width: 134
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc7a9e39a2a695479a349a924fa5ae4
+      internalID: 484207015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_120
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1176
+        width: 100
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fc693975eace445b586cc927783e8c
+      internalID: 637971445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_121
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1168
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf250e8b9ad05045807987fd1234ac5
+      internalID: 1493237711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_122
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1066
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd150f6bfbb7864ea375ee9b869808e
+      internalID: 1572840191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_123
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1075
+        width: 108
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2cf345a5563a54d8dd5f22cad49591
+      internalID: 1051569118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1075
+        width: 125
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb30ee072fcea304cb5f50c868cd89a6
+      internalID: -1880417644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_125
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1074
+        width: 140
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9291afebcf089ab4eba99d6e3d95a82d
+      internalID: 656103484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_126
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1067
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9601245489f7414c9f580efd047cdc4
+      internalID: -1773668950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_127
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1071
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca71158491ebc1d4cbdce07a6ead83c8
+      internalID: 462892511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_128
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1072
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d64c60b6704e34283e6cc3e09aa04e
+      internalID: 708431397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_129
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1071
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2933e1ac161a30a45b9bee6dcc322b70
+      internalID: -1669221442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_130
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1071
+        width: 91
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d42110a931a3ed4b97bbadbb7fee499
+      internalID: -2090196660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_131
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1098
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b94b80403f76d458b9c6746f14bc10
+      internalID: 1924939086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_132
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1071
+        width: 86
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39f757d27200824fa5f9c906f63b023
+      internalID: 1245528729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_133
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1068
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d35a84cd2e1e94aba00f7036d70891
+      internalID: -1719081985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_134
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1067
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aac34296052db4fb434f5b5fe804eb
+      internalID: -1849491114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_135
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1068
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dc6909df2479e44b7c0117d2b3939e
+      internalID: -1847937082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_136
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1067
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6190dce31f6c6e3448bceeb355925f17
+      internalID: -2018469586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_137
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1067
+        width: 90
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211f9b7d85e90bd4291c281c903921b1
+      internalID: -1919819343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_138
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1058
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0eb2cc9a919ef4a8ecf027328cf297
+      internalID: -1309091190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_139
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 959
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbb77197fca8cc46b90a43306c0acbc
+      internalID: 519715075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_140
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 954
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c34502109bb5f34481a81e6ccd006a0
+      internalID: 692812512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_141
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 954
+        width: 107
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43b2843f97cf144f9ae5da9e31cfeac
+      internalID: -188007811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_142
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 951
+        width: 109
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d141a0141a988e14bb41b57d373ecf5f
+      internalID: -704434156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_143
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 949
+        width: 109
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c344ba1dca842643864a8e370f7a4db
+      internalID: -1764796994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_144
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 789
+        width: 115
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6e90fbd4d799f4faeaa70ce28ad750
+      internalID: 535342365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_145
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 800
+        width: 121
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d735ac0552357804dbaa348153722285
+      internalID: 1276405000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_146
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 799
+        width: 138
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab74ab6c0b188a543ae2efbe322e411c
+      internalID: -963819130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_147
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 799
+        width: 168
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74296de7eb6554f4eaa873aaf00203db
+      internalID: 1737330060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_148
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 783
+        width: 148
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103316a3ce6078743971c7323b2e89df
+      internalID: -484148651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_149
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 791
+        width: 135
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167401d466f25cc448df1a1cbff97e6c
+      internalID: 1201350260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_150
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 791
+        width: 134
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bc9da870ece9045bb50191828cf482
+      internalID: -17634873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_151
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 787
+        width: 135
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b17ff65afdb2b4aacd30a6b73f9ca2
+      internalID: 1705036024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_152
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 795
+        width: 177
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6f2833b61304e41893b5c57af4128f
+      internalID: -1424990910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_153
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 796
+        width: 126
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2270305941cef2f4b8c8369bb7fb52a7
+      internalID: -1460340926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_154
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 596
+        width: 118
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe930a247542974589e36945a4002e0
+      internalID: -1881820231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_155
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 605
+        width: 118
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ba00d19486d194183c27f9cb24ce13
+      internalID: -1159617558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_156
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 609
+        width: 118
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bfe1bb380cef4449c9d70f8e4e7f2c
+      internalID: 75832587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_157
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 605
+        width: 121
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94abb6bb92e059145b17fec0ef1b335f
+      internalID: 2134597755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_158
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 609
+        width: 119
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dde9b1e22c824e45b86ca5053a23453
+      internalID: -323240581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_159
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 613
+        width: 151
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe904b33deea3d449f73bf6b98c6e44
+      internalID: -741247110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_160
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 613
+        width: 190
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7a87e009f4ea048a4ba8696538fe98
+      internalID: 183650261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_161
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 601
+        width: 243
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4351119b055ccf54688462b127f5b7ad
+      internalID: 462549768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_162
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 597
+        width: 203
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17aa828e7896ab489e31d45161634c6
+      internalID: 911683664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_163
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 428
+        width: 120
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0880500d2ad1ab4eb2f590ae41ae141
+      internalID: -2138777097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_164
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 427
+        width: 118
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6193e7bd02c5ce342b443455715f68cb
+      internalID: 1171132819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_165
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 577
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebe0177e4c31c540b18f22b6801469a
+      internalID: 1786684442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_166
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 430
+        width: 164
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4160588fbf5a444ca2446c78f443b8b
+      internalID: 2076587607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_167
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 430
+        width: 119
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed819801221508a48a6376819cd24882
+      internalID: -2014952379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_168
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 414
+        width: 178
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e94ff474f8b4944bace10fbbc235402
+      internalID: -2092422589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_169
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 404
+        width: 120
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b921817edb15b84ab781391bd249a62
+      internalID: -1816031961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_170
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 404
+        width: 127
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770197e7507c31245bdf99454f395226
+      internalID: 1309710035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_171
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 402
+        width: 121
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b28d137aebb0d84f8aa2e0bf8a670b6
+      internalID: 1031162574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_172
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 399
+        width: 92
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f73f73ac029724788ecce33fde7836
+      internalID: -1913517003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_173
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 394
+        width: 91
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8dbf2530d33084bb8e045a299398ee
+      internalID: 1278472999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_174
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 323
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5998f1ca469b82f43b98a8aab5d70006
+      internalID: 514392705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_175
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 325
+        width: 91
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28386a1f6b741745b19d52e8ffe7cc9
+      internalID: -666281260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_176
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 315
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e107c3c8d2f9848977d97b7c814b93
+      internalID: -1296642562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_177
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 314
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43db41acf39d23e4b9414d016eee3cf4
+      internalID: 2022472978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_178
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 315
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4114b68b173d33f4eb4823faa4c3682f
+      internalID: 983105865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_179
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 305
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14865f02a7b365a4091b998eb8f14eab
+      internalID: 652838804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_180
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 290
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df8673016bdcdf45a7f79ccdf70a680
+      internalID: 2033916588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_181
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 290
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143194f4c85a3d245abd8f8d4add99b2
+      internalID: -1346690068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_182
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 293
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d8022a48ff23a448b432b833860cc4
+      internalID: -1748140939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_183
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 289
+        width: 93
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4dd7b2798816b4e98c06873fb07c04
+      internalID: -1993241333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_184
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 286
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7877811a563fc9448b21adac46625388
+      internalID: 1076507746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_185
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 284
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4d815d4d4992546b086be0b83db6aa
+      internalID: 1156533653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_186
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 278
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb76470c7c93a146b759a95e18c732d
+      internalID: -513047843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_187
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 295
+        width: 114
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193926e1f0c5d8d41bccc8c272d2a76c
+      internalID: -826913544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_0: -1640889113
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_1: -978985694
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_10: -104270243
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_100: -5271609
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_101: -1291927643
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_102: -1111319354
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_103: -392365264
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_104: 2098657512
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_105: 1097004964
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_106: 744275461
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_107: -1138783533
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_108: -1604462738
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_109: 43927260
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_11: 1066813702
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_110: 1702646576
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_111: -1466701177
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_112: 800288967
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_113: -879985517
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_114: -1930043439
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_115: 879181038
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_116: -1226706829
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_117: -2044414209
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_118: -450927684
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_119: 484207015
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_12: -2116180999
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_120: 637971445
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_121: 1493237711
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_122: 1572840191
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_123: 1051569118
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_124: -1880417644
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_125: 656103484
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_126: -1773668950
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_127: 462892511
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_128: 708431397
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_129: -1669221442
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_13: -2027245277
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_130: -2090196660
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_131: 1924939086
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_132: 1245528729
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_133: -1719081985
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_134: -1849491114
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_135: -1847937082
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_136: -2018469586
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_137: -1919819343
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_138: -1309091190
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_139: 519715075
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_14: -889408624
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_140: 692812512
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_141: -188007811
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_142: -704434156
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_143: -1764796994
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_144: 535342365
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_145: 1276405000
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_146: -963819130
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_147: 1737330060
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_148: -484148651
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_149: 1201350260
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_15: -592149410
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_150: -17634873
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_151: 1705036024
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_152: -1424990910
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_153: -1460340926
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_154: -1881820231
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_155: -1159617558
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_156: 75832587
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_157: 2134597755
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_158: -323240581
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_159: -741247110
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_16: -922281000
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_160: 183650261
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_161: 462549768
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_162: 911683664
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_163: -2138777097
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_164: 1171132819
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_165: 1786684442
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_166: 2076587607
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_167: -2014952379
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_168: -2092422589
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_169: -1816031961
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_17: 477908244
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_170: 1309710035
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_171: 1031162574
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_172: -1913517003
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_173: 1278472999
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_174: 514392705
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_175: -666281260
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_176: -1296642562
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_177: 2022472978
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_178: 983105865
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_179: 652838804
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_18: 298488960
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_180: 2033916588
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_181: -1346690068
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_182: -1748140939
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_183: -1993241333
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_184: 1076507746
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_185: 1156533653
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_186: -513047843
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_187: -826913544
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_19: 1259270649
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_2: -630026473
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_20: 503017271
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_21: -1976790055
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_22: -1890685204
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_23: 1607572089
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_24: -1156826824
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_25: -2079602936
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_26: -151620935
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_27: 1417327141
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_28: 1699655692
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_29: 1250455024
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_3: 1518198085
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_30: 1515346033
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_31: -1531463574
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_32: -154121937
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_33: -429115936
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_34: 1810566479
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_35: -1131447366
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_36: 1713636993
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_37: -1020805580
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_38: -128418916
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_39: 599739851
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_4: 390863515
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_40: -1505057742
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_41: 175856893
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_42: 1418120474
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_43: -996170256
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_44: -2109810711
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_45: -1181029246
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_46: -165611115
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_47: 1890751176
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_48: -64161472
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_49: 1862802357
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_5: 137532365
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_50: -1817834787
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_51: -274232403
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_52: 2113547102
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_53: -95291201
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_54: -1544249168
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_55: 583150751
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_56: -2139693451
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_57: 1276057893
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_58: 871405805
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_59: -1764244346
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_6: -335028903
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_60: 1905483052
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_61: -76949124
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_62: -830316740
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_63: 2147407947
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_64: -410662001
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_65: -803971327
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_66: 559774201
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_67: 1614666863
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_68: -1464178592
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_69: -834834777
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_7: -1830396961
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_70: 2146904116
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_71: -150754837
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_72: -211306474
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_73: -30357875
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_74: 227773200
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_75: 2113059534
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_76: 1278254742
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_77: 1000514229
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_78: -366291882
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_79: -298716997
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_8: 87476736
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_80: -505345205
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_81: -1212943292
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_82: -1503435549
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_83: -1252305588
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_84: -1751249137
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_85: 364238770
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_86: -1571115456
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_87: 781523441
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_88: -1287486614
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_89: 754220101
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_9: 538519537
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_90: 1698696295
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_91: -309511284
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_92: 213880543
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_93: -811669513
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_94: -15627864
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_95: 1483928692
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_96: -1481038999
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_97: -1518997887
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_98: -2101375686
+      kibutsuji_muzan_jus_sprites_by_imhomiejaydev_df3rbui_99: -873483903
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

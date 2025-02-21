@@ -1,0 +1,4043 @@
+fileFormatVersion: 2
+guid: 2f4e070deca1b3a448cf3346a881b45d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2781
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffb9f513f186e94481bfb008f7bce86
+      internalID: 1596778090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2778
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1984ed90d95dc4d49aa908aecf4392e5
+      internalID: -1664253015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2769
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e9d1b2cac568c43895a316edff8416
+      internalID: -1731412846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2767
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615dc556cfe5488458c7c9170cc50d4f
+      internalID: -941099341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_4
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2771
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e7738b4587f4446836632f94c41947
+      internalID: -2015554723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_5
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 2768
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4382248def0a3e64287524f0be356927
+      internalID: 2086383419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_6
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2768
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f3fe07247b882418d9f55c36779a92
+      internalID: -2061582857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_7
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 2765
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ba42dc5d555ab48843ac89fe8058ae
+      internalID: 1617183011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_8
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 2771
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec14f1500efcf848bf7a29b11712d4c
+      internalID: 173743300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2645
+        width: 37
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e955841afbf195489625e0ae7b4ef7d
+      internalID: 1306512745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2645
+        width: 36
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff624b3879b5a3e44a55569c1fa3303f
+      internalID: -1514046847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2645
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f164979f3a731042b5d3d30ed9677c8
+      internalID: 1645398508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2645
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a14013e3a1b8c4fbc6f98f9c42b662
+      internalID: -29687652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_13
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 2661
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4f5108905ee344cac55a4ef181a5f0
+      internalID: -1117837647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2665
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adbbcae88b0bb74caf4fe31d5ee58e9
+      internalID: -398454051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_15
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 2664
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f23f9b4798c32348aee932f682a01a8
+      internalID: 497447556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2522
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5182980489e9ae04590a63375ebdd587
+      internalID: -1252009979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2550
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1776b7fdff991541b9bd200847109a0
+      internalID: -1469599234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2547
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f967ee827a60045af65908af037ea9
+      internalID: 261079284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2543
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a6c7c5f0738ef48997f01b71e65fbf
+      internalID: -1497156037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_20
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2543
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaea93bed2aad56448ea858c82d83fc6
+      internalID: -1427246797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_21
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2532
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79995bc5a66e2064c9c41b9940ac318d
+      internalID: 1117226137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2427
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376f6afa245ad974aad6df2b3a226cbc
+      internalID: -2100156964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_23
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2425
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b365982698a3ab84c8c7c30036fc98af
+      internalID: 793354281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_24
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2425
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ccdd137c4ee5c45a50ebc900495aa4
+      internalID: 934819426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_25
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2425
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edfeed7e9b7258488eeaa12bbae93a3
+      internalID: -1939844061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_26
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2422
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c683d815bc266f9439c1a5326b135ddc
+      internalID: 1331675598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2421
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bd73d981ced9748ae2367e7960a76e
+      internalID: 1783202972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_28
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2307
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb851c396c0cf9043a561e602e709406
+      internalID: 605625605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_29
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2308
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1155d4d94f3bbf84aae2a56591dd7131
+      internalID: -570104534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2181
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b21eb34ea2dcfd4aacd2bd4b07239a0
+      internalID: -797437715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2182
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02189a506626fd548bffabde419d37b2
+      internalID: -421895382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_32
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2198
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4632392a730d6e468f5ab88dc6f4c8a
+      internalID: -699649014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2194
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51850e913573ab4d8a5d5bc21c25669
+      internalID: -1480280781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_34
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2205
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d274166406cc2b94a9639d5dff0b181d
+      internalID: 794947900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_35
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2204
+        width: 82
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e37c620b29ffb449c9a6292f00c9ba
+      internalID: -2094883482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_36
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2046
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8404241bd12a01641a4fa2550607a776
+      internalID: 1803991472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_37
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2042
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00450dcd00d3fd348933900209594f25
+      internalID: -842654680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_38
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2022
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b6b852b808c4c4f8562e87971bc05c
+      internalID: 394757609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_39
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2025
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213d5628cd468d940b357c7c5b2bc74a
+      internalID: 879877379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_40
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2023
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6331b87f2cbe49a4889b53502beff418
+      internalID: -202994362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2023
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7916cc00a2bb2914c9607da9996c3db9
+      internalID: 1820172228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_42
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2022
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4308ab700267715449838fa8556d611c
+      internalID: 1105894901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_43
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2023
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c35b1d4c2b5b6848b4a7c2cb59a0319
+      internalID: 764328972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_44
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2019
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96f98bdd8d261f488ca9db4db8b3ea4
+      internalID: -33761471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_45
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 2015
+        width: 90
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f50ce8fa4133414e8c13be32eca9152
+      internalID: 23829972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_46
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 2013
+        width: 109
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d1d090a7207ad46847e71660d38247
+      internalID: -978109825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_47
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 2015
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb7808be66c1ea4fab53bb224d8975b
+      internalID: -1890170883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_48
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 2017
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2481eab088512c9408bd25e1d61d9397
+      internalID: 688084303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_49
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 2015
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66bef822bf01934398a5ec84dd5e987
+      internalID: -1936685450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_50
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 2008
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282ccb7df8ffd574893e340d8292a926
+      internalID: 1244649949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_51
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 2009
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db196277b52fe64281bb509312ec958
+      internalID: -2088713918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_52
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 2004
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7942a19095500ca44a70b0b8336d77ae
+      internalID: 786424997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_53
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 2006
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ec25a6d11d247498e9d3411d358ae6
+      internalID: 164804067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_54
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 2005
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf52f1a9aa755cc4eaed42572b6159f8
+      internalID: 1822474290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_55
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 2002
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b614bfbd662024e83ea4d9eeddc3f5
+      internalID: 2018966774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_56
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1744
+        width: 107
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5aa5202a2784a94aa0ea94ef70fd223
+      internalID: -406318560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_57
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 2010
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293f44b0272349140b99ca840b277c02
+      internalID: 1309796696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_58
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 2013
+        width: 95
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a79642c46f73e64385ffa53919ed925
+      internalID: -447256637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_59
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 2013
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8168b7ee240678e4baad002e934512f0
+      internalID: 454154108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_60
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 2015
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793a87a4a744fca41b9e050f206d915e
+      internalID: 168708414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_61
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 2016
+        width: 100
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47cf331b0bf162428124f866927470e
+      internalID: 236245390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_62
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 2013
+        width: 100
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f07c6d828327d4f993e6b41aef8ac2
+      internalID: -1774412558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_63
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 2018
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842c3d099e88804489c315909fca363d
+      internalID: -465928152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_64
+      rect:
+        serializedVersion: 2
+        x: 3521
+        y: 2017
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e379bad005fb84489f9a16e4ff25c27
+      internalID: -37810239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_65
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 2015
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9303db9b47cd74987720b128f53328
+      internalID: -612898825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_66
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 2012
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56639c382b7b55744a30b7f890085432
+      internalID: -1817925570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_67
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1903
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaa49dbc26623442b64096354f2060a
+      internalID: 1208131426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_68
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1899
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777064807b342784498bc8b215385f17
+      internalID: 1491615721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_69
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1874
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d622a770d3101be449d6887ea2208928
+      internalID: -239417510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_70
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1872
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaf85b6b88b3334fa634e4d832eb85f
+      internalID: 2060623889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1876
+        width: 128
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374aedb728c00e946800054e666e9e11
+      internalID: 50548493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_72
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1850
+        width: 80
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505b741d2ff106942b4b7ff210b41d77
+      internalID: 908242656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_73
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1869
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaa454b59fcd8b4992ea8b28719e01c
+      internalID: -981691070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_74
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1863
+        width: 94
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c3356c60b74fb4b990c14b577b778f
+      internalID: -1665282557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_75
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1864
+        width: 142
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf569bf128448d44aba5ce50c8e241e7
+      internalID: -951027632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_76
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1863
+        width: 91
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d12b08c4b4004040ba6076fb91f9e04
+      internalID: -1366523578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_77
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1863
+        width: 106
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4984f4c7ea1a84ab205aa4c43880b8
+      internalID: 1698339884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_78
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1840
+        width: 84
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b799d7ad2abc5468c54f2f483c58d3
+      internalID: -1645777601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_79
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1853
+        width: 148
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6e00a10bf1d0f40a459096fdf73c01
+      internalID: -1914597354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_80
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1840
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57600f418927aaf4f836617f1fc8f77e
+      internalID: -1473290269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_81
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1854
+        width: 102
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6a01c8a59fd6d4994a447d63fe62b5
+      internalID: 1613367019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_82
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1854
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708452342a8774241901c89665142a30
+      internalID: -2037016334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_83
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 1855
+        width: 120
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc022271f6f37b947b80a11f2c50daa5
+      internalID: 968908301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_84
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 1848
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2a3ed4504c6af4fbe79587e816d1f4
+      internalID: -126488941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_85
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 1849
+        width: 75
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedda422786fc624da7cf74bee348c07
+      internalID: -1278393013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_86
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 1825
+        width: 42
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a3a58ab4a337640aad747f96d74a1d
+      internalID: 950939717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_87
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 1826
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87cb90516fc0cd458319617f97779da
+      internalID: -925430100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_88
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 1830
+        width: 83
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80d201168080c54bba0bb282f203cb4
+      internalID: 507914890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_89
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 1834
+        width: 131
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa714c9067a4314f864aa21c99611f9
+      internalID: -637935696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_90
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 1821
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c352746125b3d0545b985b4e073ae57c
+      internalID: -85626329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_91
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1748
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf7bea721107114fbfcb2eb6b08fd12
+      internalID: 139760064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_92
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1744
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0247e2c0ac7e944bb8c84c3fe485cee
+      internalID: 165067161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_93
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1695
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58896b2842cfaac4db6637ae6668b696
+      internalID: -1366215414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_94
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1693
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277ade8142b7c644bb1ca715cb794edf
+      internalID: -1282122763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_95
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1693
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983c3dd30473ef74a83f8cf197da8c43
+      internalID: -1518291066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_96
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 1697
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c06383358d39e84f9d0c2f9fe42a2ca
+      internalID: -1312609303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_97
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 1693
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d8560a3a4af544592ce3862360bb3a
+      internalID: -1990065124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_98
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 1689
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe272dc80ccd5064c97f0bd9a0463dd3
+      internalID: 561429461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_99
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1591
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09612d23fda67814e8a635906078065b
+      internalID: 1745745519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_100
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1591
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94e580eeeb851b418f4ef79564bb002
+      internalID: -650352692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_101
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1591
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19bb635746db40468a07fe25ea8968c
+      internalID: -1864267195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_102
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1587
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805cea2ed667685428e9215325556a0d
+      internalID: 1198066357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_103
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1538
+        width: 100
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8921549862c410b4a9e7248e2e43c439
+      internalID: 804147470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_104
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1568
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c313e42c7727d604f9894692db13fcfd
+      internalID: 526239261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_105
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1575
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ccada9082509e4296da5fb5647c521
+      internalID: -1583425319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_106
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1548
+        width: 76
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f387b4c49e77a344aad9ee766397bb1
+      internalID: -1834794597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_107
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1578
+        width: 99
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453aaa510889fca4cbf429e5a87ea58f
+      internalID: -285544158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_108
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1431
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ea092c4a5ea0349a03db51f55d0c8b
+      internalID: 1506851182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_109
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1431
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11db89f17433fa4d90466930c1b1d8b
+      internalID: 1285538654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_110
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1431
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd30e404fc0bd4c4490bd1d03d0b26fe
+      internalID: -1912884633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_111
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1427
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9119da144e2fe4187f21e4172a74fa
+      internalID: -1197365868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_112
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1389
+        width: 194
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093039439671fc94bb941cd77126e3aa
+      internalID: 454608465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_113
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1386
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270a9c2a123a6fc4fae58421e4e29f8f
+      internalID: 1681886350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_114
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1385
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0f769171f8fac4fbfe5efe0cbe0f7e
+      internalID: 1757929834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_115
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1281
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff725cda0555ccc47a3fc2d6f27c9378
+      internalID: -111729073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_116
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1277
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a389277c7c5588b43b70eaf2128e4aea
+      internalID: -1761739077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_117
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1233
+        width: 96
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a4f6baaeeeacf47b3a3d5da431d6c2
+      internalID: -1427973407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_118
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1234
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f84cdb2a15a530409c05ed500b55437
+      internalID: 1066212224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_119
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1231
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877498260c015ab48b0033c7a2869796
+      internalID: 1298206314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_120
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1297
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c85feb7e1a53a24c81505716baba0b6
+      internalID: -1969969373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_121
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1228
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6522ab509465aa042bbaeba86c431d35
+      internalID: 1461774595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_122
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1295
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2c4153f33e2a443963cb059b9728a1
+      internalID: -1863125806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_123
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1229
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297ac98a6ec522040b81b5ffe559ed45
+      internalID: 1001547234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_124
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1292
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70166c51515ebfb4d9546a9d3e9f9688
+      internalID: -1630105204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_125
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1281
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e063b77771c9be45b9ca0990b33b865
+      internalID: -572544714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_126
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1281
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60743f09f3f96b64497f197ff7f913b7
+      internalID: 199398506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_127
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1287
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3756ad868699ee445b55a5cd1ffe27f6
+      internalID: 794519743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_128
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1284
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d85c5515617974ba9a9668a4f79d84
+      internalID: 1573210426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_129
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1273
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54771c1778db8c445a7e9762d98e43b5
+      internalID: 835265138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_130
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1277
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd6f6d31c82e004b94249be8a17bbf6
+      internalID: -1056087457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_131
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1271
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d4da6ce05da7546a72d0eb5dc3129b
+      internalID: -1004100972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_132
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1266
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6bbe01b6ada1244b487cece4ab2b4b
+      internalID: 1074587356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_133
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1116
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aed64ccb541f4045bd0cdc59dd99cac
+      internalID: -225338003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_134
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1112
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad2fbea55a99fb4ab04574cae32d229
+      internalID: -36197738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_135
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1087
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7c958ec45120f4ea7fff8d1ccd24a9
+      internalID: -2124517828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_136
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1088
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2c2c78c41dcb141940eeebcb08d3c8
+      internalID: -1256837895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_137
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1089
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6374a4f626a824ebce84fc500a76e7
+      internalID: 1185251591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_138
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1093
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9200925538bf124abc66d8b3140d374
+      internalID: 874800189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_139
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 957
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c34b06f1513d14595a98868be92490
+      internalID: -91413248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_140
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 953
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac99bd9cf646f04f82d7610c24743e0
+      internalID: -186476349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_141
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 929
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103b88329649b18409c7542b2bb116f6
+      internalID: -1239611258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_142
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 802
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba52f606e1272dc4eb46ed749f154402
+      internalID: 1197536030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_143
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 798
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c5e3deb5bcdfa49ab4d80479bdb3e7
+      internalID: -1241497472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_144
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 777
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f533244416b72047af6adab8b890170
+      internalID: -1714845142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_145
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 778
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6c2d931bde5c8448b91b0b8b3222bc
+      internalID: -1290728109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_146
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 646
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9014ed52fe211499d0c1aef1b94d4d
+      internalID: -1924508974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_147
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 642
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b17e05694f991a4491413e3603b0a72
+      internalID: 1840431630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_148
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 625
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90aedfe265ac8a4db4b367d59bce18c
+      internalID: -1402130406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_149
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 633
+        width: 199
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb04ba52228db445b0dff076eba9bf4
+      internalID: 1092584921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_150
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 626
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646bc5b35c57f984a9d5ff510c5406a9
+      internalID: 237623697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_151
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 461
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0355f39ed9a60fc47af5b2ed2c6e1ea2
+      internalID: 314112148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_152
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 457
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bfe88f50b32de428740ac74bb0554b
+      internalID: -1223499623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_153
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 416
+        width: 36
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edda6e98f2dbe0b498f3a3219140297b
+      internalID: 370511797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_154
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 416
+        width: 36
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d98635370ce4d74b831f7d85f5c2ac9
+      internalID: 782986563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_155
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 448
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734a6357d6497374b81ac9e84d4e037a
+      internalID: -2049015179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_156
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 436
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b54bfebd18642449be96569e76e4f1c
+      internalID: -1237276146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_157
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 435
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435cc83dabcd90e41bc0223ebbd9c08b
+      internalID: -484185616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_158
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 425
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ba89b19403ceb48a08a946cf01447d
+      internalID: -581151814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_159
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 303
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be961e03e44538f4db90b3f3b2b5b32f
+      internalID: 805344123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_160
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 298
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433ada2e3291c7e4e83010fef460a552
+      internalID: 1268316190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_161
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 278
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5535c0ba14458294f8825717755722fa
+      internalID: 2038753156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_162
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 280
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cdafce7e7b07544bf9eea569ea2792
+      internalID: 188405937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_163
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 124
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f13d66f810ad76458cb93bfa4cf53b4
+      internalID: -1029903901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_164
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 119
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5202cb5ba3a8aa646b4fcdc9461b7a8a
+      internalID: -135903375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_165
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 83
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69772f93259a08a49a7dc1aa90ff8fdb
+      internalID: 1709457400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_166
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 85
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b6ca6089cdbb5418e24d196955c0a2
+      internalID: 1199623209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_167
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 86
+        width: 87
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738ed542ff4bc9a4a9f8bda8eea28c1c
+      internalID: 645187400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_168
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 86
+        width: 104
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840aafb1c3171db4ea2f3f31a0a24dac
+      internalID: 1964936232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_169
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 81
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a29a21ee24d1b04e959831ed0349e62
+      internalID: 474222048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 80
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971467fbb8bc4864a80e2a5f31051dc9
+      internalID: -249783489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_171
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 78
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e269aa180e1409046b27f69361106a67
+      internalID: -1309392898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_172
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 78
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea59b110a99981d45a1771300692f61e
+      internalID: -1191296571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_173
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 78
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f243e9f95de764d8378f35d9bcad09
+      internalID: -1610563705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_174
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 75
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b089abb5d27d44aa6d2905a92c68c5
+      internalID: -561639110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_175
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 74
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29de82f2aba0484cb05b30256d37ae2
+      internalID: -603623913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_176
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 69
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1b0d4e0b38f344293bcb568714a401
+      internalID: 701618346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzui_jus__mysh_2002__by_mysh2020_df1if48_177
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 61
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1856bbbe1794fea4fbc29cd11c0611ce
+      internalID: -744082410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_0: 1596778090
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_1: -1664253015
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_10: -1514046847
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_100: -650352692
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_101: -1864267195
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_102: 1198066357
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_103: 804147470
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_104: 526239261
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_105: -1583425319
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_106: -1834794597
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_107: -285544158
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_108: 1506851182
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_109: 1285538654
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_11: 1645398508
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_110: -1912884633
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_111: -1197365868
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_112: 454608465
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_113: 1681886350
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_114: 1757929834
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_115: -111729073
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_116: -1761739077
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_117: -1427973407
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_118: 1066212224
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_119: 1298206314
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_12: -29687652
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_120: -1969969373
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_121: 1461774595
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_122: -1863125806
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_123: 1001547234
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_124: -1630105204
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_125: -572544714
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_126: 199398506
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_127: 794519743
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_128: 1573210426
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_129: 835265138
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_13: -1117837647
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_130: -1056087457
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_131: -1004100972
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_132: 1074587356
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_133: -225338003
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_134: -36197738
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_135: -2124517828
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_136: -1256837895
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_137: 1185251591
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_138: 874800189
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_139: -91413248
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_14: -398454051
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_140: -186476349
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_141: -1239611258
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_142: 1197536030
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_143: -1241497472
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_144: -1714845142
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_145: -1290728109
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_146: -1924508974
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_147: 1840431630
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_148: -1402130406
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_149: 1092584921
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_15: 497447556
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_150: 237623697
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_151: 314112148
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_152: -1223499623
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_153: 370511797
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_154: 782986563
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_155: -2049015179
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_156: -1237276146
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_157: -484185616
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_158: -581151814
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_159: 805344123
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_16: -1252009979
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_160: 1268316190
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_161: 2038753156
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_162: 188405937
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_163: -1029903901
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_164: -135903375
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_165: 1709457400
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_166: 1199623209
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_167: 645187400
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_168: 1964936232
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_169: 474222048
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_17: -1469599234
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_170: -249783489
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_171: -1309392898
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_172: -1191296571
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_173: -1610563705
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_174: -561639110
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_175: -603623913
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_176: 701618346
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_177: -744082410
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_18: 261079284
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_19: -1497156037
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_2: -1731412846
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_20: -1427246797
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_21: 1117226137
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_22: -2100156964
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_23: 793354281
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_24: 934819426
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_25: -1939844061
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_26: 1331675598
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_27: 1783202972
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_28: 605625605
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_29: -570104534
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_3: -941099341
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_30: -797437715
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_31: -421895382
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_32: -699649014
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_33: -1480280781
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_34: 794947900
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_35: -2094883482
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_36: 1803991472
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_37: -842654680
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_38: 394757609
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_39: 879877379
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_4: -2015554723
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_40: -202994362
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_41: 1820172228
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_42: 1105894901
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_43: 764328972
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_44: -33761471
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_45: 23829972
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_46: -978109825
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_47: -1890170883
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_48: 688084303
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_49: -1936685450
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_5: 2086383419
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_50: 1244649949
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_51: -2088713918
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_52: 786424997
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_53: 164804067
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_54: 1822474290
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_55: 2018966774
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_56: -406318560
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_57: 1309796696
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_58: -447256637
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_59: 454154108
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_6: -2061582857
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_60: 168708414
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_61: 236245390
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_62: -1774412558
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_63: -465928152
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_64: -37810239
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_65: -612898825
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_66: -1817925570
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_67: 1208131426
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_68: 1491615721
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_69: -239417510
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_7: 1617183011
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_70: 2060623889
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_71: 50548493
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_72: 908242656
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_73: -981691070
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_74: -1665282557
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_75: -951027632
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_76: -1366523578
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_77: 1698339884
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_78: -1645777601
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_79: -1914597354
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_8: 173743300
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_80: -1473290269
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_81: 1613367019
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_82: -2037016334
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_83: 968908301
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_84: -126488941
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_85: -1278393013
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_86: 950939717
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_87: -925430100
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_88: 507914890
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_89: -637935696
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_9: 1306512745
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_90: -85626329
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_91: 139760064
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_92: 165067161
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_93: -1366215414
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_94: -1282122763
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_95: -1518291066
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_96: -1312609303
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_97: -1990065124
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_98: 561429461
+      uzui_jus__mysh_2002__by_mysh2020_df1if48_99: 1745745519
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

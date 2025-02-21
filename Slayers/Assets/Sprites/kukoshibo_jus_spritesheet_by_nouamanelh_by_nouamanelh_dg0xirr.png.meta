@@ -1,0 +1,4109 @@
+fileFormatVersion: 2
+guid: 17d383a39d674e246aab45d974c38ed5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1619
+        width: 58
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f19ebef9ea302458f92d267d917dfb
+      internalID: 790560794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1557
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0067cce458dcf54e912f84435c8882b
+      internalID: -1997061790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1557
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ec2f173339896419be96b879888c4e
+      internalID: -1409172365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1557
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0969a02df3e8d2646885459e2db9b716
+      internalID: -663747277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1557
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e75b4b991e44a74f960da4f32a3ab2e
+      internalID: -113427390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1557
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a74650afd9d1a44089320ec93f967d0
+      internalID: 666088800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1520
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bcbf666283bad4488e96d14620abb2
+      internalID: 1695624646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1465
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511c3b954a06221479945a6fca2f46d5
+      internalID: 2114943426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1465
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cc0519f1ade5d42bc405ecca90d173
+      internalID: 113450789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1465
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd5a73b7e32cd1458d53a829f911ca4
+      internalID: 1023765522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1465
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da4e2e3948904f47ae212299df2937b
+      internalID: -39757713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_11
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1465
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755eb1b30b6e84d448a1ac4820999266
+      internalID: -637228707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1465
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe9ffdad0c739a47bfc5b70823819a9
+      internalID: 1190849549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_13
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1465
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf77aebcab26734ea8688c866bf436c
+      internalID: 1818142004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_14
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1465
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13f0bf1200394e4dbb6ab81290c17d3
+      internalID: 1877725682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1419
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fcdd271175acd4e9c348e4c21b8307
+      internalID: 656031141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1349
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee77e0f24b695e44da450340eb5c02b1
+      internalID: 1108941461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1348
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5361827f710d4b946a14beae4ee9f19a
+      internalID: -1700474804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1350
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d907c20126ddcb4fae6619437fa72e7
+      internalID: 2024029620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_19
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1351
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1625359f12ddb5647a5b5fdc29c71fcf
+      internalID: -548789971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_20
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1352
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d475bd9f8441145b341c79ba50a7d4
+      internalID: -700457221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_21
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1354
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b8ffab00bf8dc4b9e3e30c5c307e3d
+      internalID: -199065779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1308
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b701080ab02462442a41fe4563788f95
+      internalID: 466292216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1250
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873adbc543aa1ed4f8abda95323b3de1
+      internalID: -1274938956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1250
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f4fcaaf3604004283da3f20fa71d34
+      internalID: -2112086329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1214
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb4e667f9b70c4409dc8fe5905b585c
+      internalID: -545385357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1200
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216033f8425f71d4aa5a774cd1851884
+      internalID: 865325873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1125
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025b9cd9dabc01043b8104c115f668b1
+      internalID: 2062353539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1149
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8832ac6a896af9d4286382dc1502e3b6
+      internalID: -435418149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_29
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1149
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae05e4b69e736774782559483a603234
+      internalID: 1822743627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_30
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1156
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04948a55cbcca74b9ef829b1ff65db8
+      internalID: 1943507313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1149
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e6fa63094ed9f49988e1cfaa9e5bec
+      internalID: 1249753636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_32
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1149
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fe2c2080f6a754aa4a75cce41cc768
+      internalID: 1506175683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_33
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1125
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762c3d3502b2b0847bf6cebb7b2092f0
+      internalID: -669984129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_34
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1125
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4b77d069228f84bba1f8f2438d52f9
+      internalID: -40159819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_35
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1125
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dbeb375054f084796a10a8adace7b3
+      internalID: 2128458242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1083
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4244584d9a830f24d9ef436862532225
+      internalID: 1793376850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1083
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296284ec02d3493418e68d780cc0a23f
+      internalID: -1500810201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1020
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113e3613d66c2f4458341fd05ae4a5d9
+      internalID: 1188611924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_39
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1020
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3804d2f962d7cd0449fad5d3ef7caaf1
+      internalID: 175698235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1020
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e96d8c2d4c331e4ba4c9733afbb6162
+      internalID: -934227409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_41
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 982
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8786e28fe826247bd9e9cdf3601515
+      internalID: -534833133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_42
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 982
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcbdad004a9bbf43be135fd9b729066
+      internalID: -126579731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 917
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ecac79703cb9844a398db38688dc4f
+      internalID: -2092776598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_44
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 917
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cec33b8d8b2fef41922eedcb2f3d5b1
+      internalID: 1001950978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_45
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 917
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75229f697251e2a428a6625fe8148f3d
+      internalID: 1373393608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_46
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 877
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d45aa0180a34bd4abea792880da44f4
+      internalID: 278864273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_47
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 881
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d364a3e4cc494524a98bc3b1969a438f
+      internalID: 352457254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_48
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 881
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7e814c10b8f6f4bb05be4fc3187f32
+      internalID: -1041995496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_49
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 833
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39626ef0b68aae4e8bc34048c3f337c
+      internalID: 952654615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_50
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 835
+        width: 61
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8bdfb8bd38aaa45aba6d864fcf2e9a
+      internalID: 1084962300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_51
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 834
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0916b63826ff74b8aaf1d75944561f
+      internalID: 968702141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 833
+        width: 65
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997734abf3916e34f95330bb4cb8aad8
+      internalID: -1112173427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_53
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 827
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497e5425600fc9d4aaf0b090248e5911
+      internalID: -1814806478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_54
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 811
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fd45ba4e390eb4bb21bf7797c062a8
+      internalID: -1985376152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_55
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 821
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2981580f9998df4bbf304db2d00a70a
+      internalID: 552811251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_56
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 824
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d17cf9384ad6274cba6efc9f8548d0f
+      internalID: 704353414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_57
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 824
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fb3d9561ea646488d38a80f01ef1a8
+      internalID: 67707796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_58
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 821
+        width: 63
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9274c3643b636494a8e2a11d050b1005
+      internalID: -989797564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_59
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 792
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362261a5f58935e4fb5e41cbc7644f9b
+      internalID: 998064231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_60
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 798
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88a28170a45efb4080e8ba7119f1bbc
+      internalID: -1577717302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 697
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58323f59be07b794f8d7dd7a98580f07
+      internalID: -898559168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_62
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 697
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafecc866729ed843b0a193431aad4c0
+      internalID: 1960219288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_63
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 697
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eda30e650da18e49aa2ee5928858f40
+      internalID: 172709397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_64
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 697
+        width: 79
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936ca9261e89dfe42b7696d43833de7f
+      internalID: 594831821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_65
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 697
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396134fc5a06d104bb2f2de45ae5e532
+      internalID: 2121807992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 697
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9111c183bc859154d8089b32aaab92fc
+      internalID: -829798955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_67
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 697
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08c184de2cbe494e9060b1179c1cd68
+      internalID: -1402671495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_68
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 697
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2014c5f5e1f59ec4c988f64986aec312
+      internalID: -1286456352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_69
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 696
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239461b16121f2e42b5fd375987e4e0c
+      internalID: -833334705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_70
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 694
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db60a510c17e1eb4e8ea1f008ff656f5
+      internalID: 1088009339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_71
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 681
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba542db52eabb94ca71e21dbdd4dd29
+      internalID: -75878743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_72
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 685
+        width: 100
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bebfc0dbd1252949a5a297bd9163eb9
+      internalID: 1921667283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_73
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 476
+        width: 336
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cea84747660974ca012ec1a7340c16
+      internalID: -238987945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_74
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 486
+        width: 337
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a840ec12f37d54b448807ad67f2e2498
+      internalID: -262480626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_75
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 658
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779abad12dd1cb948a278127063059fa
+      internalID: -1235790039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_76
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 661
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b6a4fb511def64ca325070ae94da2b
+      internalID: -1276960618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_77
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 659
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f529af3c47ab64084cdb85fe1fed26
+      internalID: -602454455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_78
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 649
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269dc737f8c850e4e89ae1e6e7cfc28f
+      internalID: 1559673613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_79
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 623
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8856eb0995d0e424b9cc9a4ec955334c
+      internalID: -742400718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_80
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 623
+        width: 74
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9b5c897dc4e074aa7022e3d5406cb0
+      internalID: 1455886814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_81
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 619
+        width: 120
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47cfa434ecf13944a6f6138086a697d
+      internalID: 835699881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_82
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 623
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46c0c0b670dafd4c895b9e973a759a9
+      internalID: -1317341087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_83
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 486
+        width: 339
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbae86465300da4419017a4255c4ae38
+      internalID: 2135491356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_84
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 495
+        width: 343
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910daff9db219914cb0409b1e7780855
+      internalID: 917599018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_85
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 480
+        width: 346
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa220fc5cf93510468734690d021cb15
+      internalID: 1666936732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_86
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 625
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9785701f2ed31744a9870c9c693c5060
+      internalID: -1756383333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_87
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 620
+        width: 119
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37b6929a1fb24c47bfe8ff3733de314
+      internalID: -1158793715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_88
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 645
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c23fdeaa161ba44e9cb25968323befa
+      internalID: -1797038475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_89
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 632
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da9e91c9657bd544a14d8f2ce67e329
+      internalID: -1720894572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_90
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 645
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d333a5ef5cf8148900cd81a37e4e4a
+      internalID: -2001470375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_91
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 577
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16bcc31ad25cea43a5a1272b5e3001c
+      internalID: -1816842591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_92
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 577
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2dabde97b7af34088dfb7cf627eb72
+      internalID: 1957551470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_93
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 577
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7492e63383df8cb4cafce4ef5292d3ce
+      internalID: 53709386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_94
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 577
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f916b937dc4813f4ca6670d25c48632f
+      internalID: 1398850215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_95
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 577
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36161d5ba211264fbfeccfdc863ded0
+      internalID: -559251405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_96
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 577
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a5436596940104387ea931633ca7a3
+      internalID: -1516075212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_97
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 577
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0ec15b62308b44f874ced04fb6f277
+      internalID: 2101683953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_98
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 546
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0756d5de83b3c43aca87681ccd3d86
+      internalID: -532371835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_99
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 543
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946b321983e5f9645bd574d2747e78db
+      internalID: 1505880747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_100
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 531
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0037e9ac292e10e4dadef5e78817598f
+      internalID: -1796936941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_101
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 531
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f506d982c61cef14d9fdad1b229d80e2
+      internalID: -2028621196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_102
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 525
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ee230054056f246ba1f9b2d3af81e9
+      internalID: 55830024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_103
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 530
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99a4a49809f70742a38469e320010cc
+      internalID: 1412578973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_104
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 521
+        width: 98
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbf719eaf6dc664e8486944f845db97
+      internalID: 1099712928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_105
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 526
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c322ead8829199044a8d6b8b688f51b8
+      internalID: -2112739786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_106
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 443
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58bf1768be177f49b638909cbbf64d8
+      internalID: -29963867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_107
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 443
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f857c7619f4b4634ba58ec4d3f712d0b
+      internalID: -1527064586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_108
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 443
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d0200f58d024046aaf7bec7cb4c358
+      internalID: 1285957469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_109
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 443
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da301515d03f464cbc3ead97fd785a4
+      internalID: -551404428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_110
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 443
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d35a3682bc849e41a4455e64ef5ecfa
+      internalID: 2113263748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_111
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 443
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42d851f1b5629144b260630a3199ffb
+      internalID: 671017244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_112
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 443
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1321f396379eac149861bd45d863740d
+      internalID: 751605950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_113
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 443
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707f55d5943b1514d90166e6ea518a87
+      internalID: 806464165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_114
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 441
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5403ca0dee400e4794a8d9f61c18a44
+      internalID: -1667440638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_115
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 396
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34b965bf7d7c804f8534c3ebc4787e8
+      internalID: 675758332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_116
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 398
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d54656087008840a186535a3fa332d
+      internalID: -101884686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_117
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 400
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cc78d9b23ef13498375a0f2417197f
+      internalID: 1312042400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_118
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 377
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0baf3aaa1823246870ab18d6cd8f00
+      internalID: 318673967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_119
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 388
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16316d72e5a7774e9febf39cf385bac
+      internalID: -830638553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_120
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 392
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d6d1090d922964f83aab17a5cf95ee
+      internalID: 2084515911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_121
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 388
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee51045a6c485841b7b9d5ac9410548
+      internalID: -784553172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_122
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 381
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcd564a86767aa4b970c76b1c549da0
+      internalID: 994083444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_123
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 317
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7477e7bf5c8fb86498ebeb9ffde09602
+      internalID: 1237216988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_124
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 315
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067adb21e4ce6d042871e7976cf80c7a
+      internalID: -876271998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_125
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 312
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f8085f529fea049b2698d0b3fb9b16
+      internalID: -1746101532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_126
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 315
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c837558a45573d499c9400d305bf540
+      internalID: 381596554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_127
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 318
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8affade8bc15fa141b7406500bcfe088
+      internalID: 1301976046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_128
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 318
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cda2b675d2368d4f84f8dd37b3f63be
+      internalID: -116589164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_129
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 318
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2570c02a4c2efea4b84db16d85f8cbf1
+      internalID: -2124782815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_130
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 318
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888e5655e1e1d32488d6ea7a9980ed48
+      internalID: -362667545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_131
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 321
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a0c90bfbbafa247908ba20d5939d93
+      internalID: -388445919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_132
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 250
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a520f60279037ad42af1f242e466eccf
+      internalID: 1818497737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_133
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 180
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c778269de5f1d874e93e1a27a9435c8b
+      internalID: -586130562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_134
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 188
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3c7fd71e88f5248bc7278699fe2cf9
+      internalID: -1905087471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_135
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 188
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be039b2319d87749bf391e6c5180daa
+      internalID: -513845103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_136
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 188
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c8ffd3fca01054ea0c239243652b19
+      internalID: -917499659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_137
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 188
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e731c1b8b7ce94047b93a1afbb9a7d92
+      internalID: -860674483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_138
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 63
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10318c789106ef409e4222746de91f1
+      internalID: -636248201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_139
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 104
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86847ff5b95eb3a41a56be56d9f20152
+      internalID: -1920321277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_140
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 105
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ec9113ef8672f449d88fbed633ddd6
+      internalID: 1196450707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_141
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 104
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cea308764f41c44b92dcde146b76354
+      internalID: -1091080263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_142
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 104
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693d2dc7829450b4ca4c1c0f058d6af8
+      internalID: 1855108666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_143
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 104
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea31bfc39892ed243a08ce37c13abbe5
+      internalID: 1423475500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_144
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 104
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a52337fa86aeba49a53e8e838256060
+      internalID: 1216480625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_145
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 104
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dddead395243be47874c1ecc03b0e4b
+      internalID: 274589998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_146
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 104
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33897bfa87ee22e4abbab59e084207f5
+      internalID: -1848071227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_147
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 91
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35db842a970ac244a9de3983114e6458
+      internalID: 478496493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_148
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 129
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfe0d2a182984f4594a3a5d4a16babb
+      internalID: -1168783733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_149
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 105
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b072228f06c83ba40ba6019b336c00c0
+      internalID: -1752156220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_150
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 104
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218ad347d8f205c4db713320b12f6e18
+      internalID: 471938901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_151
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 104
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb6d3e59123bbc4c8b27e1a29814820
+      internalID: -244087328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_152
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 104
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f02ee4323ce8954cafbee0010b9e69b
+      internalID: -227189214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_153
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 105
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda4eeec2542df042b55061acb762054
+      internalID: -2114774641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_154
+      rect:
+        serializedVersion: 2
+        x: 3837
+        y: 104
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66410226b37c2244c889c6d6b541ad72
+      internalID: -906680926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_155
+      rect:
+        serializedVersion: 2
+        x: 3873
+        y: 104
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ff6e23bceadd74fbc04b5cfaa2d9a6
+      internalID: -1856912069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_156
+      rect:
+        serializedVersion: 2
+        x: 3909
+        y: 105
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520a71a99c6de884cb70149ce41e309d
+      internalID: 534508010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_157
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 104
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862d9a714ce69414085acfffc9309349
+      internalID: 2144765808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_158
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 64
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f891906772e2fb74e8a3207653db154f
+      internalID: 1483013735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_159
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 105
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f1084d31ddb934bb8045ecc08d2f38
+      internalID: -986665972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_160
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 64
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9cb83a73ab8f34abff40607d83b4ca
+      internalID: 694411525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_161
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 63
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079118f7fb3aa304ca1844ddf66a0538
+      internalID: -1936685620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_162
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 63
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af0c33ab92ee174eba0b2a5f0132807
+      internalID: 680977353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_163
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 63
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e94e39c89a04e41bb56519ba2e5720
+      internalID: 788206593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_164
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 63
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b10e05b5d05ab2419915ef79bcd25e1
+      internalID: -1539215236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_165
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 63
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2560839890aeda4d9e74ebd474c8d2e
+      internalID: 840725787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_166
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 22
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcbd1e59be4c974a8d89cd387be33dd
+      internalID: -1116533246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_167
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 22
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da84158e477e204f8736769eb64b711
+      internalID: -2109777410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_168
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 62
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a152dc2a5cb2442846765f74a1e525
+      internalID: 1191973873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_169
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 22
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558e6be755ab14f4382b11a4099497db
+      internalID: -1643995685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_170
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 23
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bff25cacd47f64ebd5c83bb6cd4233
+      internalID: -153104755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_171
+      rect:
+        serializedVersion: 2
+        x: 3565
+        y: 23
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c76eff9cffb8b4bac49b5a6c837100
+      internalID: -1156279393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_172
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 23
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f6f3f5b62b380489228a8a7b1c70d4
+      internalID: -1677998537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_173
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 23
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23995786dcd65e245a4df70faf5b5223
+      internalID: -43916708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_174
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 23
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b95b7587466639419ee0f573e9f9270
+      internalID: -1352827065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_175
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 23
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1626900c6b6a54f8637edf4c6af42a
+      internalID: 1725906541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_176
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 22
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f354e23c1fb0e498a3de78a242b70d
+      internalID: 1653007152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_177
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 23
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecc6df55dd32bf4083faa1f80a4c803
+      internalID: 1099546555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_178
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 22
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d565e4e608ff57543b498361e035dafc
+      internalID: 2019916624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_179
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 47
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5fc5fbb22315b4eb21167ba1b8dbf1
+      internalID: -2146254793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_180
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 23
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73350a630b5e834c8aedc800de3802a
+      internalID: 942118748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_0: 790560794
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_1: -1997061790
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_10: -39757713
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_100: -1796936941
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_101: -2028621196
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_102: 55830024
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_103: 1412578973
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_104: 1099712928
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_105: -2112739786
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_106: -29963867
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_107: -1527064586
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_108: 1285957469
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_109: -551404428
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_11: -637228707
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_110: 2113263748
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_111: 671017244
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_112: 751605950
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_113: 806464165
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_114: -1667440638
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_115: 675758332
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_116: -101884686
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_117: 1312042400
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_118: 318673967
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_119: -830638553
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_12: 1190849549
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_120: 2084515911
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_121: -784553172
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_122: 994083444
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_123: 1237216988
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_124: -876271998
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_125: -1746101532
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_126: 381596554
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_127: 1301976046
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_128: -116589164
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_129: -2124782815
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_13: 1818142004
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_130: -362667545
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_131: -388445919
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_132: 1818497737
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_133: -586130562
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_134: -1905087471
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_135: -513845103
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_136: -917499659
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_137: -860674483
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_138: -636248201
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_139: -1920321277
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_14: 1877725682
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_140: 1196450707
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_141: -1091080263
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_142: 1855108666
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_143: 1423475500
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_144: 1216480625
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_145: 274589998
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_146: -1848071227
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_147: 478496493
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_148: -1168783733
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_149: -1752156220
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_15: 656031141
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_150: 471938901
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_151: -244087328
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_152: -227189214
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_153: -2114774641
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_154: -906680926
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_155: -1856912069
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_156: 534508010
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_157: 2144765808
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_158: 1483013735
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_159: -986665972
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_16: 1108941461
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_160: 694411525
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_161: -1936685620
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_162: 680977353
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_163: 788206593
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_164: -1539215236
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_165: 840725787
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_166: -1116533246
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_167: -2109777410
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_168: 1191973873
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_169: -1643995685
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_17: -1700474804
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_170: -153104755
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_171: -1156279393
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_172: -1677998537
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_173: -43916708
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_174: -1352827065
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_175: 1725906541
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_176: 1653007152
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_177: 1099546555
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_178: 2019916624
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_179: -2146254793
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_18: 2024029620
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_180: 942118748
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_19: -548789971
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_2: -1409172365
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_20: -700457221
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_21: -199065779
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_22: 466292216
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_23: -1274938956
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_24: -2112086329
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_25: -545385357
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_26: 865325873
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_27: 2062353539
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_28: -435418149
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_29: 1822743627
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_3: -663747277
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_30: 1943507313
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_31: 1249753636
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_32: 1506175683
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_33: -669984129
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_34: -40159819
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_35: 2128458242
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_36: 1793376850
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_37: -1500810201
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_38: 1188611924
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_39: 175698235
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_4: -113427390
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_40: -934227409
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_41: -534833133
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_42: -126579731
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_43: -2092776598
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_44: 1001950978
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_45: 1373393608
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_46: 278864273
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_47: 352457254
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_48: -1041995496
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_49: 952654615
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_5: 666088800
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_50: 1084962300
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_51: 968702141
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_52: -1112173427
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_53: -1814806478
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_54: -1985376152
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_55: 552811251
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_56: 704353414
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_57: 67707796
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_58: -989797564
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_59: 998064231
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_6: 1695624646
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_60: -1577717302
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_61: -898559168
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_62: 1960219288
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_63: 172709397
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_64: 594831821
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_65: 2121807992
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_66: -829798955
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_67: -1402671495
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_68: -1286456352
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_69: -833334705
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_7: 2114943426
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_70: 1088009339
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_71: -75878743
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_72: 1921667283
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_73: -238987945
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_74: -262480626
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_75: -1235790039
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_76: -1276960618
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_77: -602454455
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_78: 1559673613
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_79: -742400718
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_8: 113450789
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_80: 1455886814
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_81: 835699881
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_82: -1317341087
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_83: 2135491356
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_84: 917599018
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_85: 1666936732
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_86: -1756383333
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_87: -1158793715
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_88: -1797038475
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_89: -1720894572
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_9: 1023765522
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_90: -2001470375
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_91: -1816842591
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_92: 1957551470
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_93: 53709386
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_94: 1398850215
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_95: -559251405
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_96: -1516075212
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_97: 2101683953
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_98: -532371835
+      kukoshibo_jus_spritesheet_by_nouamanelh_by_nouamanelh_dg0xirr_99: 1505880747
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

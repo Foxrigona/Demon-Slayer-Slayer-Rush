@@ -1,0 +1,3537 @@
+fileFormatVersion: 2
+guid: 8618262d244f43a4c9c961332d45e062
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 916
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddb83fa8ad7bb042a139ce9ea4958ec
+      internalID: 2132822262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 916
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ec886571cd84c4d84a37bf5219c033
+      internalID: 1105725357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 916
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb8c7be29e5ca94d9fd8c53ce7c8061
+      internalID: -1861656156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 916
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0311e79e61945d64e906af1df1f9a09e
+      internalID: 430656495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 916
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa7c01e7c9f09d449becb682fd22f59
+      internalID: 70983616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 916
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb352980b0792f547b48543a40bd73ad
+      internalID: -1384476446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 916
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e48e346dd0a13d43bedfcac654b9b77
+      internalID: -1415706039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_7
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 916
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57d835e959a5d347bde98490fd1b075
+      internalID: -713455746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 858
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c84f3161a460746ab19cdd6510465e
+      internalID: -909890265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 856
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f23a38c823f9bb45882099dbf1e8b9c
+      internalID: 780816379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 855
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a238c99e5f33404e9c789a1f16a1a3b
+      internalID: -653460215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 855
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a926235d62c86438e60316f2539fda
+      internalID: 189194241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 855
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c1ad2ae22a6ca449530070f4b4fdf0
+      internalID: -1001687201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 851
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655ef97bc0cd62341911c0386444d427
+      internalID: -292878919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_14
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 850
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f786fddfc13a345b2f6a28c8bb3138
+      internalID: 902841569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_15
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 846
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e78a33a713e89448b3764217abccec
+      internalID: 282500591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 858
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20733b6280ca5db4a9cc51a5ab08617a
+      internalID: -864144886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_17
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 858
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6567202a1cf16a44b9589c1d0c2f77c0
+      internalID: -692832856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_18
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 858
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0591cd1085dc548875a55de424bb59
+      internalID: 1568854306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_19
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 858
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0453ff727b739a6498105cff6686361c
+      internalID: 314739964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_20
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 858
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11830057cc17b8f44a279d2b2cdbe666
+      internalID: -200502937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_21
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 857
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b342cbfd281fd8479244c4038ac455c
+      internalID: 1585351893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_22
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 855
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a50ff59a4c81454aa9d74ebfe582c0a
+      internalID: -2005385400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_23
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 855
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f85b7dc4f17c048b8aa274320c9d0b
+      internalID: -162498041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_24
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 853
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561abd509a202c64883794aa07d13006
+      internalID: 139623952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_25
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 849
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd4118b83ecdb84a850890e21201eee
+      internalID: 1783629744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_26
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 847
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db8ddd27212e0f49877ed4360f09cfb
+      internalID: -1752583514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_27
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 845
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d74e2c1b440cc41adb1bee2105b5ad
+      internalID: -1416039339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 790
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc8cf81c943ca84b972d7045feda493
+      internalID: 1729777138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 790
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888ad0ba52b9bd343baeffe0bfe8401a
+      internalID: 470541673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 790
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8895d4413c8607b40b841eae433b5df9
+      internalID: 1944156711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_31
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 791
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f219b3a7c27bc1544897f3825b0501a0
+      internalID: 2013670382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_32
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 791
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16865fa29ff74894eb6482f4fecfd800
+      internalID: -1741364963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_33
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 792
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91dc016cdf6fc341a5e8cc84bc1621b
+      internalID: -1568185569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_34
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 796
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc7d92ba654ad142bb3d702a7e4ad60
+      internalID: 366748251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_35
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 794
+        width: 56
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5087a332b2184674382d35eb6d42a6c5
+      internalID: -888212293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_36
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 783
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb903c9d80f20c409c65fb8a63d5f31
+      internalID: 1086057790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_37
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 783
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f160f064f58cbaf42bf0951d772fa759
+      internalID: 1589298401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_38
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 781
+        width: 73
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1d909e4ce9e9645a4a68278c3a5b74
+      internalID: 307903171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_39
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 782
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cf2435ee0249949bfd20cc93933b34
+      internalID: -2073060226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 725
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265cf427d96349b42838ed7672092099
+      internalID: -1487157694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_41
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 725
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea19cbe60e9fda742b711b917ad2839a
+      internalID: -1360337349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_42
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 725
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ff5cf886bf601408e612e705d9edf0
+      internalID: -279672862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 725
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b1241661cb08845b8a486d23ffa8b2
+      internalID: 903279056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_44
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 725
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136e4f677973c7d43bce973bb3706d5e
+      internalID: -1801337562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_45
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 726
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edca8fbc168d8c449ea799cb8a7de9e
+      internalID: -1589999501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_46
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 724
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7856d5c51df0dc41b0a56c77c9f07a6
+      internalID: -638290732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_47
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 722
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094efbf0159cdc9428bc343fbe819d69
+      internalID: -1889175640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_48
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 721
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be7a2aa9ad470d44b0a9dfc6d7ab62b
+      internalID: 1959330974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_49
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 721
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a1415dd840f9f4ab53cc01157c36cd
+      internalID: 687774000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 660
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77777da9a77f4a43a6d47e3c66a79c4
+      internalID: -918385291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 660
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3a76f7987f58d4390ce4675a464b3d
+      internalID: 1116372276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_52
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 661
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1258c5f3a3a2140804e3554e0d291b
+      internalID: 708838042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 661
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d7f54183d204242b7aa9ab9ac36550
+      internalID: -1823584484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_54
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 664
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a986b9d5b09aeb84a973311312451149
+      internalID: -675504078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_55
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 662
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f2b0120c5b8c84791fdfa5debc2a6e
+      internalID: -779788050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_56
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 662
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da078cb2d2b39d64180e7f8ca1ea99b6
+      internalID: 1622387467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_57
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 662
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31515b1c55b6ec841b4c43dd36cad929
+      internalID: -1144855956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_58
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 659
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd0c73c3be016541b2531c2cd5b0d8b
+      internalID: 1417357188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_59
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 663
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bff7f5515468cc439cdc8182d829608
+      internalID: 2118822350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_60
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 659
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c9f560fe998b549801f1fabc3dd601
+      internalID: -1480670930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_61
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 655
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fa9818fce3e3f4bbdb594178cef7f1
+      internalID: -1211389527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_62
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 658
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe8b3c3598793a41a01b87b6833394b
+      internalID: 1487841234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_63
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 639
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3470818bce98c2e47b9a43ab71849605
+      internalID: 1496193615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_64
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 655
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2dff1737576044abf2d4843fd0b481
+      internalID: -295494499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_65
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 591
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a28adc0bcb4f8b4393cd192110e533b
+      internalID: 1514716694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_66
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 591
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39689ece914fba4881145a89744938d
+      internalID: -1573173810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_67
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 594
+        width: 77
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d8b3637abf3284888cc93f0c6d5e06
+      internalID: 635331331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_68
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 590
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a1dcc735b8aab47a5d10a54532507d
+      internalID: 1192948024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_69
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 590
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7243f19c79db14849b8bcdca608f6019
+      internalID: 90114311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_70
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 589
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb1c9f6f4258184280dcf1efb82da3e
+      internalID: 1644001910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_71
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 589
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555d1497063fdab46910ab6e95ef8746
+      internalID: -1961658826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_72
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 589
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee2cd109043e7146b7c0e72d94f0aaf
+      internalID: 890535461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_73
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 589
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c60171140187740954a45216ab73ec
+      internalID: -354302550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_74
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 589
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03f327988ec6744c8881342154ec95c
+      internalID: 2101312570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_75
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 589
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d93cf970a918a43a4cb032416b666e
+      internalID: -1226246325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_76
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 587
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d11ee1eb0bdf7458294c528822b603
+      internalID: 1056342022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_77
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 583
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ced8f4675d8e24e9318020c1cb1fec
+      internalID: 335360058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_78
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 582
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3ec985ce5a97348a0eda112bc5aa60
+      internalID: 317085610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_79
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 581
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f55c11e5ec9abf4495a8796383873f4
+      internalID: 735866444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_80
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 580
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e611841f73f73e439a1f58a78f5d8c3
+      internalID: 1514349500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_81
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 579
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525aa2cdb8973254881adf9043f990be
+      internalID: 1099377494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_82
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 579
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9230c58896484b488aa925de59cb112
+      internalID: -453982872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_83
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 517
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47779fd022080e49add3fb9a70b366e
+      internalID: 221060502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_84
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 518
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81685346ac5f5d54f8bee257fba1237c
+      internalID: 898342206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_85
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 519
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66ddb584bdc2f34e824a61d9bae4145
+      internalID: -1014239144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_86
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 520
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c222cec5b664c41a562e2a2b56f313
+      internalID: 1241598277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_87
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 518
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5767b3f2960935b43a9d8457673ec17f
+      internalID: 531644969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_88
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 519
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0719735ff173d4c93283a8319d678e
+      internalID: -922794480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_89
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 519
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cd6812b0b84354295c519cfca192bc
+      internalID: 2058946580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_90
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 515
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4185665e96697a4d9261446883b539b
+      internalID: 924716040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_91
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 515
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de63c09a4befc4438c7f19f2ea3cc73
+      internalID: 854805311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_92
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 515
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da6c1da3cbafda4fa5f01cf72aa35b1
+      internalID: -1970631414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_93
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 497
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e54b554f546cd4483145139f60c0ec
+      internalID: -610831553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_94
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 500
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e48348af825e044a644314285185c9
+      internalID: 1735135275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_95
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 499
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e40cecbc277a547b7fd45257324b3c
+      internalID: 2071210394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_96
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 497
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7d4a9dfe3bc404a91e4a8f8cd16b19
+      internalID: -1182305721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_97
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 428
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3042198e381607043b29bb15e8459703
+      internalID: -1010990795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_98
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 429
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e048aac345d7f3a45a2bc970980009dd
+      internalID: -76494502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_99
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 429
+        width: 76
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e726a414813d6478a5056d1b8f1420
+      internalID: 1890442020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_100
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 428
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac550a63928baa9449b74e559fb8c5d0
+      internalID: 1371277638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_101
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 427
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168a522fa614987428a957f276884113
+      internalID: 1795730786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_102
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 422
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4424a678e1a75fa4b955cac6f0a70272
+      internalID: 1266340906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_103
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 420
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c377d25fba8f9a439207fca1d4b6a01
+      internalID: 590253053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_104
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 417
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacc6ce8a27f26f40b9e4e4e79ecd33c
+      internalID: 652126634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_105
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 417
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690dff46713787141beb165624a57b2e
+      internalID: 2022191798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_106
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 417
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d40c3308a7c954c8965cee96d17ee0
+      internalID: 1849763290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_107
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 418
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a788cd861b96759449890e5fc7e00e86
+      internalID: 778716907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_108
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 416
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493b74bfc741e2547ac443ea4c3b2188
+      internalID: 1304995447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_109
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 413
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56babc52d37a8f448818da69ca9d18e1
+      internalID: -301052232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_110
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 413
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cf387743110954ea18c41457a0f20b
+      internalID: -1942070907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_111
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 354
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01886aaf83c27354a85722177964d2db
+      internalID: -443284787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_112
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 356
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae6bde20ab176e49aa3e42abecec207
+      internalID: 405618569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_113
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 359
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b9654b75f85a7458fd3514cb587364
+      internalID: 322613613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_114
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 358
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b037763510bd02a4d8216e7d656390b7
+      internalID: 567686953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_115
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 359
+        width: 70
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac0b8be514cecf4db33fb3e37344ef8
+      internalID: -562951532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_116
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 348
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932596c5319b056468443804f7060c0e
+      internalID: -35219609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_117
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 344
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5982274f1fa834e89499ef18d8a4d1
+      internalID: 265790524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_118
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 341
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d09e9147d5c5643b6330815d3c9655
+      internalID: 385122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_119
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 342
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f3bba5788c52248b66bb3b78f44d2f
+      internalID: 1637259282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_120
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 337
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8ff6040c9f47d40aa2de030d815db8
+      internalID: -2019344275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_121
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 285
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59285486f18b82469c63746bb9c0584
+      internalID: 88420373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_122
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 285
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62f8173ca46365438ce84a23d47511c
+      internalID: 1290967495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_123
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 283
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7242f7dce930c44b2717413e858733
+      internalID: -933697953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_124
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 274
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da9bbab98a1c1f4499cacbde70afa3d
+      internalID: 1285347330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_125
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 283
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579c50c10892f3449af399e081ce2ac0
+      internalID: -1240643044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_126
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 282
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06ef4e361bb8c847a430e24d3378ad3
+      internalID: -627285382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_127
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 273
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9488af105e2fd6e4abfb4a9e9077939b
+      internalID: 1527037995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_128
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 270
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991cd644a0c06ed48ac19aee8d3a3ea5
+      internalID: 1578218871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_129
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 261
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3299f6c6d7dd36147aa96af1e487d936
+      internalID: 2112603295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_130
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 262
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862c2c79f8984504ba4cbb5eb16e7c4f
+      internalID: -731686293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_131
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 258
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5314b06e846c244943b483415d1f8a
+      internalID: 1507657686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_132
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 257
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f89b7da160180a4ea0597ba8bf4bade
+      internalID: -1086636639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_133
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 257
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f51264ce2062d4abc5a3288019408c
+      internalID: 155195913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_134
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 209
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50995f0b8095f9c4b9e016f0a27b75d1
+      internalID: -257826180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_135
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 212
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3f4a2f31249c1488491b4263bf3a95
+      internalID: 1662182042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_136
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 211
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb82159aff32b7a4fb3143c8caab2f62
+      internalID: -147834197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_137
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 210
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24e97302a5b647499ace0d05a642b36
+      internalID: 263200737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_138
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 208
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1d67d46138e2144aa2f84c5c803dd8
+      internalID: -306981627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_139
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 202
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f7e658a9ef0ee4a864a307602a6567
+      internalID: 1150112499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_140
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 205
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54204150004d6924fb4a4d45b758dc17
+      internalID: 777894641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_141
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 203
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e1bcbf2c06613468ff3f2759657e92
+      internalID: 1095647444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_142
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 189
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9ae4a7a91fa924e9c3369e3e438384
+      internalID: 256428319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_143
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 192
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1225c7f9b56a8c74dae2f8c118bd19aa
+      internalID: -1232419786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_144
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 186
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fd7c335572f6f4f963c77fd96b6cce
+      internalID: 1913540955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_145
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 183
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d2abec7587880428a3a7bd00afee95
+      internalID: 1996193854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_146
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 184
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f880862b0589c549adc94820b5bf89a
+      internalID: 1056420803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_147
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 181
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc2a78fc605ba74f8d0cc8ac86bc949
+      internalID: 931194038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_148
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 183
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f17e0e0bab670e4bae42a903a2f586a
+      internalID: -1526966225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_149
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 183
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95313b61bf7ad54abed4610bd412dfa
+      internalID: -1408400922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_150
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 182
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2ee25e7e89f684880d23cb38bef2b7
+      internalID: -1294747805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_151
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 129
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d32808ee12f8d5429ec3cb511e12c40
+      internalID: -245295670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_152
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 130
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0b8502eda454541b28a8364277cdff
+      internalID: -797769923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_153
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 128
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2adc945fbabac4ebac34f4d660ebb8
+      internalID: -59375329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_154
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 120
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f51e8f2dcc48c942be240fb21846fcd
+      internalID: 179308832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_0: 2132822262
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_1: 1105725357
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_10: -653460215
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_100: 1371277638
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_101: 1795730786
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_102: 1266340906
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_103: 590253053
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_104: 652126634
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_105: 2022191798
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_106: 1849763290
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_107: 778716907
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_108: 1304995447
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_109: -301052232
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_11: 189194241
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_110: -1942070907
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_111: -443284787
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_112: 405618569
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_113: 322613613
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_114: 567686953
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_115: -562951532
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_116: -35219609
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_117: 265790524
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_118: 385122
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_119: 1637259282
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_12: -1001687201
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_120: -2019344275
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_121: 88420373
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_122: 1290967495
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_123: -933697953
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_124: 1285347330
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_125: -1240643044
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_126: -627285382
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_127: 1527037995
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_128: 1578218871
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_129: 2112603295
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_13: -292878919
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_130: -731686293
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_131: 1507657686
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_132: -1086636639
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_133: 155195913
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_134: -257826180
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_135: 1662182042
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_136: -147834197
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_137: 263200737
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_138: -306981627
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_139: 1150112499
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_14: 902841569
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_140: 777894641
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_141: 1095647444
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_142: 256428319
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_143: -1232419786
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_144: 1913540955
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_145: 1996193854
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_146: 1056420803
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_147: 931194038
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_148: -1526966225
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_149: -1408400922
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_15: 282500591
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_150: -1294747805
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_151: -245295670
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_152: -797769923
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_153: -59375329
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_154: 179308832
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_16: -864144886
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_17: -692832856
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_18: 1568854306
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_19: 314739964
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_2: -1861656156
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_20: -200502937
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_21: 1585351893
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_22: -2005385400
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_23: -162498041
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_24: 139623952
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_25: 1783629744
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_26: -1752583514
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_27: -1416039339
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_28: 1729777138
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_29: 470541673
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_3: 430656495
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_30: 1944156711
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_31: 2013670382
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_32: -1741364963
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_33: -1568185569
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_34: 366748251
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_35: -888212293
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_36: 1086057790
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_37: 1589298401
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_38: 307903171
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_39: -2073060226
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_4: 70983616
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_40: -1487157694
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_41: -1360337349
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_42: -279672862
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_43: 903279056
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_44: -1801337562
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_45: -1589999501
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_46: -638290732
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_47: -1889175640
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_48: 1959330974
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_49: 687774000
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_5: -1384476446
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_50: -918385291
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_51: 1116372276
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_52: 708838042
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_53: -1823584484
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_54: -675504078
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_55: -779788050
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_56: 1622387467
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_57: -1144855956
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_58: 1417357188
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_59: 2118822350
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_6: -1415706039
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_60: -1480670930
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_61: -1211389527
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_62: 1487841234
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_63: 1496193615
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_64: -295494499
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_65: 1514716694
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_66: -1573173810
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_67: 635331331
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_68: 1192948024
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_69: 90114311
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_7: -713455746
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_70: 1644001910
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_71: -1961658826
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_72: 890535461
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_73: -354302550
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_74: 2101312570
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_75: -1226246325
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_76: 1056342022
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_77: 335360058
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_78: 317085610
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_79: 735866444
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_8: -909890265
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_80: 1514349500
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_81: 1099377494
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_82: -453982872
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_83: 221060502
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_84: 898342206
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_85: -1014239144
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_86: 1241598277
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_87: 531644969
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_88: -922794480
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_89: 2058946580
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_9: 780816379
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_90: 924716040
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_91: 854805311
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_92: -1970631414
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_93: -610831553
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_94: 1735135275
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_95: 2071210394
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_96: -1182305721
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_97: -1010990795
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_98: -76494502
+      kamado_tanjiro_jus_sprite_by_imhomiejaydev_df2yz5i_99: 1890442020
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
